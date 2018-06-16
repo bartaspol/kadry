@@ -1,0 +1,25 @@
+
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(áÜª’ûÿÿÿÿ8ÿÓÈºÀ,
+isquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(¾æƒû8ØŒ¿»À,
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(°˜àùÿÿÿÿ8±ïáºÀ,
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ôÏ¬öşÿÿÿÿ8€ŸŞºÀ,
+squid:S1488#"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÙÃ²‹øÿÿÿÿ8ÿÓÈºÀ,
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(îøã¨ıÿÿÿÿ8€ŸŞºÀ,
+usquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Œ©“üÿÿÿÿ8´Õ·»À,
+psquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÎ§â8Å³¹»À,
+osquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÏE8şôº»À,
+Fsquid:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áóºÀ,
+squid:S14881"^Immediately return this expression instead of assigning it to the temporary variable "result".(£¥š›úÿÿÿÿ8ÿÓÈºÀ,
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Ğ‹´Ü8ÏáºÀ,
+_squid:S1075D"ARefactor your code to get this URI from a customizable parameter.(•Ùªë8¬çŒ»À,
+nsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ı«½»À,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(› æ<8ÿÓÈºÀ,
+`squid:S35181"=Make sure "counter" can't be zero before doing this division.(£¥š›úÿÿÿÿ8ûĞºÀ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â‰„¢8ÿÓÈºÀ,
